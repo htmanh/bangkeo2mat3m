@@ -1,7 +1,7 @@
 <strong><a href="http://anhkhang.com.vn">anhkhang.com.vn</a></strong> thuộc <strong>Công ty TNHH Giải Pháp Công Nghệ Anh Khang</strong> chuyên phối <strong>sản phẩm 3M</strong> tại Việt Nam, ANH KHANG trở thành một trong những công ty phân phối sản phẩm 3M phát triển vững chắc, đạt được uy tín cao đối với khách hàng và sự hỗ trợ tối đa từ nhà phân phối uỷ quyền của tập đoàn 3M.
 
 Điều này cũng đồng nghĩa với việc khi hợp tác với ANH KHANG, Quý Công ty sẽ được sự hỗ trợ tốt nhất của 3M toàn cầu...
-<h2>Chuyên phân phối sản phẩm 3M</h2>
+<h2>Chuyên phân phối <a href="http://anhkhang.com.vn">sản phẩm 3M</a></h2>
 <strong><a href="http://anhkhang.com.vn/bang-keo-3m">BĂNG KEO 3M</a></strong>
 <ul>
  	<li><a href="http://anhkhang.com.vn/bang-keo-3m/bang-keo-1-mat-3m">Băng keo 1 mặt 3M</a></li>
